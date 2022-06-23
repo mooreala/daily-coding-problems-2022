@@ -1,2 +1,2 @@
-# daily-coding-problems-2022
-Daily coding problems solutions
+# Daily Coding Problems (C++)
+Daily coding problems solutions using C++
